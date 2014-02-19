@@ -1,0 +1,1 @@
+\endnote{This has another note\endnote{Inside}, which is not allowed.}
